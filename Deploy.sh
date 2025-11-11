@@ -15,7 +15,7 @@ RED='\033[0;31m'
 NC='\033[0m' # No Color
 
 # Variables
-APP_NAME="crypto-tracker"
+APP_NAME="cryptostru"
 APP_DIR="/var/www/crypto-tracker-realstru"
 
 # Función para imprimir mensajes

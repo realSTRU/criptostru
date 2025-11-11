@@ -73,7 +73,7 @@ const Footer = () => {
          {/* Logo personal */}
             <div className="pt-3 flex justify-center">
               <img
-                src="public\Stru.png"
+                src="/Stru.png"
                 alt="Stru Logo"
                 className="h-20 w-20 rounded-xl shadow-lg hover:scale-105 transition-transform duration-300"
               />
